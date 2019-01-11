@@ -10,7 +10,7 @@ class Bar{
         fill(this.color[0], this.color[1], this.color[2])
     }
 }
-var howmany = 100;
+var howmany = 1500;
 var numbers = [];
 var bars = [];
 var xratio;
